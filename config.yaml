@@ -1,0 +1,13 @@
+pathes:
+  useragent: '/work/shared/useragents.txt'
+  basepath: '/work/testmanian'
+alerts:
+  telegram:
+    token: 5961194552:AAFKHZuB_fdzOnkKCSqLtijvR1Lu8SRpkcI
+    chatID: 1111960866
+account:
+    user: aat2011@ukr.net
+    password: Qwerty123
+
+
+
